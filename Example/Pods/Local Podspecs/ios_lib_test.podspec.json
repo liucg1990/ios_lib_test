@@ -1,0 +1,22 @@
+{
+  "name": "ios_lib_test",
+  "version": "0.1.0",
+  "summary": "A short description of ios_lib_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liucg/ios_lib_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liucg": "liucg906612001"
+  },
+  "source": {
+    "git": "https://github.com/liucg/ios_lib_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ios_lib_test/Classes/**/*"
+}

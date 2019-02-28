@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liucg/ios_lib_test'
+  s.homepage         = 'https://github.com/liucg1990/ios_lib_test.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liucg' => 'liucg906612001' }
-  s.source           = { :git => 'https://github.com/liucg/ios_lib_test.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liucg1990/ios_lib_test.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
