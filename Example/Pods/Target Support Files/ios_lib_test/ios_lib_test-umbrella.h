@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LCGPerion.h"
 
 FOUNDATION_EXPORT double ios_lib_testVersionNumber;
 FOUNDATION_EXPORT const unsigned char ios_lib_testVersionString[];

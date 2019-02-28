@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ios_lib_test: 863e78278bd11b82dae010e3cec120abd06a067c
+  ios_lib_test: 44a38627b8b131a45e20cbdef267f3ee8e75adca
 
 PODFILE CHECKSUM: efddfefca71f33fd669bcd1c35efdb8eff8054ca
 
